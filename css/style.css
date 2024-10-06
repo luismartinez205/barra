@@ -67,6 +67,7 @@ header {
 
 .card img {
   margin: auto;
+  margin-top: 5px;
   width: 200px;
 }
 
@@ -128,6 +129,16 @@ header {
 .carousel-control-prev {
   opacity: 1.5;
 }
+
+.margen {
+  margin: 10px;
+}
+
 .row {
-  margin-left: 50px;
+  margin-left: 29px;
+}
+
+.title {
+  color: #d9299b;
+  text-align: center;
 }
