@@ -11,6 +11,7 @@ body {
 header img {
   position: relative;
   left: 5%;
+  top: 10px;
   height: 160px;
   width: 170px;
   border-radius: 50%;
@@ -114,12 +115,12 @@ header {
 }
 
 .carousel-control-prev-icon {
-  background-image: url("../imagenes/atras.jpg");
+  background-image: url("../imagenes/antras.png");
   border-radius: 50%;
 }
 
 .carousel-control-next-icon {
-  background-image: url("../imagenes/next.png");
+  background-image: url("../imagenes/post.png");
   border-radius: 50%;
 }
 
