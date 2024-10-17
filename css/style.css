@@ -68,22 +68,28 @@ header {
 .card img {
   margin: 0px;
   margin-top: 5px;
-  width: 225px;
+  width: 182px;
 }
 
 .card {
-  height: 340px;
-  width: 250px;
+  height: 326px;
+  width: 208px;
 }
 
 .card a {
-  margin-left: 56px;
+  margin-left: 37px;
 }
 
 .card p {
   font-size: small;
 }
-
+.carousel{
+  position: relative;
+  width: 65%;
+  margin-top: 20px;
+  left: 225px;
+  
+}
 .carousel-indicators [data-bs-target] {
   background-color: #0a0a0a; /* Color personalizado */
   width: 15px; /* Ajusta el tamaño */
@@ -135,12 +141,14 @@ header {
 }
 
 .row {
-  margin-left: 29px;
+  margin-left: 93px;
+  margin-top: 21px;
 }
 
 .title {
   color: #d9299b;
   text-align: center;
+  font-size: 21px;
 }
 
 .btn{
