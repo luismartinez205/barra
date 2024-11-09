@@ -172,6 +172,7 @@ header {
     width: 70px;
     height: 70px;   
     border-radius: 50px;
+  background: #d9299b;
 }
 .carousel-control-prev{
       left: 20px;
