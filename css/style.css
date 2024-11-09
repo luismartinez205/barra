@@ -92,17 +92,17 @@ header {
 
 .carousel-indicators [data-bs-target] {
   background-color: #0a0a0a; /* Color personalizado */
-  width: 15px; /* Ajusta el tamaño */
-  height: 15px;
-  border-radius: 50%; /* Forma circular */
+  width: 30px; /* Ajusta el tamaño */
+  height: 4px;
+  border-radius: 0; /* Forma circular */
   margin-bottom: -20px;
 }
 
 /* Cambia el estilo del indicador activo */
 .carousel-indicators .active {
   background-color: #d9299b; /* Color para el indicador activo */
-  width: 20px; /* Tamaño diferente para el activo */
-  height: 20px;
+  width: 30px; /* Tamaño diferente para el activo */
+  height: 4px;
 }
 
 .carousel-indicators button {
