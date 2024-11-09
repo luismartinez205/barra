@@ -141,8 +141,7 @@ header {
 }
 
 .row {
-  margin-left: 93px;
-  margin-top: 21px;
+  justify-content:center;
 }
 
 .title {
@@ -159,12 +158,26 @@ header {
   font-family:Sport World-Regular ;
 }
 .banner_img{
-  width: 42%;
+  width: 28rem;
 }
 .banner_title{
-  color: #d9299b;
-  font-size: 16px;
-  margin-bottom: 15px;
+    color: #d9299b;
+    font-size: 16px;
+    margin-bottom: 15px;
+    text-align: center;
+    padding: 30px 0px 0px 0px;
+}
+.carousel-control-next, .carousel-control-prev{    
+    top: 120px;  
+    width: 70px;
+    height: 70px;   
+    border-radius: 50px;
+}
+.carousel-control-prev{
+      left: 20px;
+}
+.carousel-control-next{
+   right: 20px;
 }
 
 @font-face {
