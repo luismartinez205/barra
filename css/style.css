@@ -200,6 +200,16 @@ a.navbar-brand.wall{
   .carousel-indicators{
     margin-bottom: -2rem;
   }
+  .carousel-control-next, .carousel-control-prev{
+    top: 120px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background: #d9299b;
+  }
+.banner_img{
+      width: 23rem;
+}
 header img {
   
   position: relative;
