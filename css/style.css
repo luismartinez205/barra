@@ -66,18 +66,23 @@ header {
 }
 
 .card img {
-  margin: 0px;
-  margin-top: 5px;
-  width: 182px;
+    margin: 0px;
+    margin-top: 10px;
+    width: 285px;
+    }
+.card-title{
+      margin-bottom: var(--bs-card-title-spacer-y);
+    color: #d9299b;
+    text-align: center;
 }
-
 .card {
-  height: 326px;
+  height: 394px;
   width: 208px;
+  border: 1px solid #d9299b78;
 }
 
 .card a {
-  margin-left: 37px;
+  margin-left: 80px;
 }
 
 .card p {
