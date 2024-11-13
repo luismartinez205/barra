@@ -233,6 +233,9 @@ header img {
   margin-top: 0px;
   margin-left: 0px;
 }
+  .col{
+    flex:none;
+  }
 .row{
   margin-left: -3px;
   margin-top: 26px;
