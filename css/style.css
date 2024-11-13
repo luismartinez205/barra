@@ -69,6 +69,7 @@ header {
     margin: 0px;
     margin-top: 10px;
     width: 285px;
+  border-radius:0px;
     }
 .card-title{
       margin-bottom: var(--bs-card-title-spacer-y);
@@ -79,6 +80,7 @@ header {
   height: 394px;
   width: 208px;
   border: 1px solid #d9299b78;
+  border-radius:0px;
 }
 
 .card a {
@@ -157,6 +159,7 @@ header {
 
 .btn{
   color: white;
+  border-radius:15px;
 }
 
 .wall{
