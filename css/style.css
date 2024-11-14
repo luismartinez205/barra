@@ -216,6 +216,13 @@ a.navbar-brand.wall{
     border-radius: 50px;
     background: #d9299b;
   }
+  .carousel-indicators [data-bs-target] {
+  background-color: #c6c7c8; /* Color personalizado */
+  width: 15px; /* Ajusta el tamaño */
+  height: 15px;
+  border-radius: 50%; /* Forma circular */
+  margin-bottom: -20px;
+}
 .banner_img{
       width: 23rem;
 }
